@@ -1,4 +1,4 @@
-# DistinctSongPlayCounts
+# Distinct Song Counts Assignment
 This program represents a C# application that processes daily log data from a music streaming portal. The core functionalities of the program are as follows:
 
 It reads music streaming log data from a CSV file.
